@@ -1,3 +1,4 @@
+/*Simple program to input and display two numbers*/
 #include<stdio.h>
 void main()
 
