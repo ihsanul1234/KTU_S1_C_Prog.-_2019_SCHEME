@@ -1,3 +1,4 @@
+/*sum of two number.*/
 #include<stdio.h>
 void main()
 
