@@ -1,3 +1,4 @@
+/* basic arithmetic operation using floating point numbers. */
 #include<stdio.h>
 void main()
 
